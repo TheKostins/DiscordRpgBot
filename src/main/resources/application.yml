@@ -1,0 +1,2 @@
+discord:
+  command-prefix: ${COMMAND_PREFIX:!}
